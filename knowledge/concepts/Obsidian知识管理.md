@@ -1,33 +1,32 @@
 ---
-concept: 代码知识图谱
+concept: Obsidian知识管理
 aliases:
-  - Code Knowledge Graph
-  - GitNexus
+  - Obsidian PKM
+  - Vault Workflow
 ---
 
-# 代码知识图谱
+# Obsidian知识管理
 
 ## 定义
-把代码仓库解析为图（节点=符号，边=调用/导入/继承），让 AI 编码 Agent 通过查询替代 grep。代表工具：GitNexus。
+以 Obsidian 作为本地优先的知识底座，用链接、属性和视图把静态 Markdown 组织成可导航的知识网络。
 
 ## 关键洞见
+- （待当前Agent提炼）（来源：[[2026-06-27-Obsidian-AI-Agent-9个必备Skill]])
 - 规模基线：1000+ 源码文件、11w 行业务代码（不含 node_modules 等三方依赖）。（来源：[[2026-06-18-商详页项目的复杂性]])
-- （待当前Agent提炼）（来源：[[2026-06-05-Effect-of-gitignore-on-gitnexus-skills]])
-- 工具使用系统（来源：[[2026-03-10-Claude-Code实战指南]])
 - （待当前Agent提炼）（来源：[[2026-06-12-GitNexus-代码知识图谱与AI编码工作流]])
 
 ## 代表条目
+- [[2026-06-27-Obsidian-AI-Agent-9个必备Skill|为 Obsidian 配置 AI Agent——9 个必备 Skill 详解]]
 - [[2026-06-18-商详页项目的复杂性|商详页项目的复杂性——规模数据]]
-- [[2026-06-05-Effect-of-gitignore-on-gitnexus-skills|Effect of .gitignore on gitnexus skills]]
-- [[2026-03-10-Claude-Code实战指南|Claude Code 实战指南]]
 - [[2026-06-12-GitNexus-代码知识图谱与AI编码工作流|GitNexus - 代码知识图谱与 AI 编码工作流]]
 
 ## 相关概念
-- [[concepts/MCP工具链]]
+- [[concepts/第二大脑]]
+- [[concepts/上下文工程]]
 - [[concepts/Claude协作工作流]]
 
 ## 开放问题
-- 代码知识图谱如何与运行时 trace、issue 图谱打通，形成完整的工程上下文网络？
+- 除了 concepts/ 之外，哪些导航层最值得补成 Bases 或 Dataview 视图？
 
 ## Dataview
 ```dataview

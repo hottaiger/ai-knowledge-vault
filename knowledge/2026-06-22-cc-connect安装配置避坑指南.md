@@ -1,24 +1,29 @@
 ---
-title: cc-connect 安装配置避坑指南（实战 9 条）
 date: 2026-06-22
+source: 实战联调笔记（macOS 15 + Node 20 + cc-connect v1.3.4 + Cursor Agent CLI + 飞书）
+tags:
+- cc-connect
+- Cursor Agent CLI
+- 飞书
+- IM 集成
+- AI/Coding/工具
+- 避坑指南
+concepts:
+- '[[concepts/OpenClaw与Agent编排]]'
+- '[[concepts/cc-connect]]'
+related:
+- '[[concepts/OpenClaw与Agent编排]]'
+- '[[concepts/cc-connect]]'
+- '[[2026-06-20-cc-connect工作原理]]'
+- '[[2026-04-30-drawio-skill-从文本生成专业架构图]]'
+title: cc-connect 安装配置避坑指南（实战 9 条）
 created: 2026-06-22
 updated: 2026-06-27
-tags:
-  - cc-connect
-  - Cursor Agent CLI
-  - 飞书
-  - IM 集成
-  - AI/Coding/工具
-  - 避坑指南
 aliases:
-  - cc-connect 飞书配置避坑
-  - cc-connect 实战避坑
-source: 实战联调笔记（macOS 15 + Node 20 + cc-connect v1.3.4 + Cursor Agent CLI + 飞书）
-related:
-  - 2026-06-20-cc-connect工作原理
+- cc-connect 飞书配置避坑
+- cc-connect 实战避坑
 status: processed
 ---
-
 # cc-connect 安装配置避坑指南（实战 9 条）
 
 > [!quote] 一句话理解

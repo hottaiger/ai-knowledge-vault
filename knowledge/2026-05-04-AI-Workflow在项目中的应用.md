@@ -1,20 +1,29 @@
 ---
-title: AI Workflow 在项目中的应用——提示词优化与项目记忆
 date: 2026-05-04
+source: 碎片速记
+tags:
+- AI/Coding
+- 工作流/AI协作
+- 提示词
+- 个人笔记/碎片
+concepts:
+- '[[concepts/上下文工程]]'
+- '[[concepts/Agent记忆架构]]'
+- '[[concepts/Claude协作工作流]]'
+related:
+- '[[concepts/上下文工程]]'
+- '[[concepts/Agent记忆架构]]'
+- '[[concepts/Claude协作工作流]]'
+- '[[2026-03-10-Claude-Code实战指南]]'
+- '[[2026-06-20-cc-connect工作原理]]'
+title: AI Workflow 在项目中的应用——提示词优化与项目记忆
 created: 2026-05-04
 updated: 2026-06-27
-tags:
-  - AI/Coding
-  - 工作流/AI协作
-  - 提示词
-  - 个人笔记/碎片
 aliases:
-  - 提示词优化
-  - 项目记忆
-source: 碎片速记
+- 提示词优化
+- 项目记忆
 status: processed
 ---
-
 # AI Workflow 在项目中的应用——提示词优化与项目记忆
 
 > [!quote] 一句话理解

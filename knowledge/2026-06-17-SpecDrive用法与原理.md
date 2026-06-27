@@ -1,24 +1,33 @@
 ---
-title: SpecDrive 怎么用——人工审批门控 + build_command 配置原理
 date: 2026-06-17
+source: SpecDrive 使用问答整理
+tags:
+- OpenSpec
+- Comet
+- SpecDrive
+- 工作流/OpenSpec
+- AI/Coding
+concepts:
+- '[[concepts/Claude Code Skills]]'
+- '[[concepts/Claude协作工作流]]'
+- '[[concepts/OpenClaw与Agent编排]]'
+- '[[concepts/OpenSpec规范驱动]]'
+related:
+- '[[concepts/Claude Code Skills]]'
+- '[[concepts/Claude协作工作流]]'
+- '[[concepts/OpenClaw与Agent编排]]'
+- '[[concepts/OpenSpec规范驱动]]'
+- '[[2026-06-03-Comet-使用问答与实现原理]]'
+- '[[2026-05-26-OpenSpec归档变更spec与主spec区别]]'
+title: SpecDrive 怎么用——人工审批门控 + build_command 配置原理
 created: 2026-06-17
 updated: 2026-06-27
-tags:
-  - OpenSpec
-  - Comet
-  - SpecDrive
-  - 工作流/OpenSpec
-  - AI/Coding
 aliases:
-  - SpecDrive build_command 用法
-  - SpecDrive 人工审批门控
-  - build_pause 用法
-source: SpecDrive 使用问答整理
-related:
-  - concepts/OpenSpec
+- SpecDrive build_command 用法
+- SpecDrive 人工审批门控
+- build_pause 用法
 status: processed
 ---
-
 # SpecDrive 怎么用——人工审批门控 + build_command 配置原理
 
 > [!quote] 一句话理解

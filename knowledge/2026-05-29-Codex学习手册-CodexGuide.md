@@ -1,3 +1,11 @@
+---
+concepts:
+- '[[concepts/Codex提示词工作流]]'
+related:
+- '[[concepts/Codex提示词工作流]]'
+- '[[2026-06-26-keep-codex-fast-Codex本地维护]]'
+- '[[2026-06-14-用codex分析工作记录]]'
+---
 # Codex 学习手册 — CodexGuide 核心要点
 
 > 来源：https://codexguide.ai | 作者：canghe | MIT Licensed

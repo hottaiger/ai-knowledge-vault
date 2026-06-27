@@ -1,10 +1,15 @@
 ---
-title: Vibe Security — AI 代码安全审计技能
-tags: AI编程, 安全, Vibe Coding, 工具链
-created: 2026-04-21
 source: https://skills.sh/raroque/vibe-security-skill/vibe-security
+tags: AI/Coding, 安全, Vibe Coding, 工具链
+concepts:
+- '[[concepts/Claude Code Skills]]'
+related:
+- '[[concepts/Claude Code Skills]]'
+- '[[2026-04-21-Article-to-HTML-文章转信息图-Skill]]'
+- '[[2026-04-23-Claude-多智能体协作5种模式]]'
+title: Vibe Security — AI 代码安全审计技能
+created: 2026-04-21
 ---
-
 # Vibe Security — AI 代码安全审计技能
 
 > Audit code for security vulnerabilities commonly introduced by AI code generation.

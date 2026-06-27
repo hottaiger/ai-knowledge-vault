@@ -1,12 +1,23 @@
 ---
-title: Superpowers - Cursor AI 开发框架
 date: 2026-04-02
-tags: [AI编程, Cursor, 开发工作流, Superpowers, TDD, 子Agent]
 source: https://cursor.com/cn/marketplace/superpowers
+tags:
+- AI/Coding
+- Cursor
+- 开发工作流
+- Superpowers
+- TDD
+- 子Agent
+concepts:
+- '[[concepts/Claude协作工作流]]'
+related:
+- '[[concepts/Claude协作工作流]]'
+- '[[2026-06-12-GitNexus-代码知识图谱与AI编码工作流]]'
+- '[[2026-06-24-Claude-Code-动态工作流]]'
+title: Superpowers - Cursor AI 开发框架
 status: processed
-category: AI/AI编程
+category: AI/AI/Coding
 ---
-
 # Superpowers - Cursor AI 开发框架
 
 ## 是什么

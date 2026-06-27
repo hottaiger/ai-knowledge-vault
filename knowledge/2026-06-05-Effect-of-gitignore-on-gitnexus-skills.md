@@ -1,16 +1,23 @@
 ---
 date: 2026-06-05
-title: Effect of .gitignore on GitNexus skills
-tags:
-  - GitNexus
-  - 工作流/AI协作
-  - AI/Coding/工具
 source: Cursor 会话导出
-status: processed
+tags:
+- GitNexus
+- 工作流/AI协作
+- AI/Coding/工具
+concepts:
+- '[[concepts/Claude Code Skills]]'
+- '[[concepts/Claude协作工作流]]'
+- '[[concepts/代码知识图谱]]'
 related:
-  - 2026-06-12-GitNexus-代码知识图谱与AI编码工作流
+- '[[concepts/Claude Code Skills]]'
+- '[[concepts/Claude协作工作流]]'
+- '[[concepts/代码知识图谱]]'
+- '[[2026-04-30-drawio-skill-从文本生成专业架构图]]'
+- '[[2026-06-12-GitNexus-代码知识图谱与AI编码工作流]]'
+title: Effect of .gitignore on GitNexus skills
+status: processed
 ---
-
 # Effect of .gitignore on gitnexus skills
 _Exported on 2026/6/5 at GMT+8 16:59:50 from Cursor (3.6.31)_
 

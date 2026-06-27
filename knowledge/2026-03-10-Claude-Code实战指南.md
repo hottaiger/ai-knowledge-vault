@@ -13,12 +13,18 @@ concepts:
 - '[[concepts/Agent记忆架构]]'
 - '[[concepts/Claude协作工作流]]'
 - '[[concepts/OpenClaw与Agent编排]]'
+- '[[concepts/MCP工具链]]'
+- '[[concepts/代码知识图谱]]'
 related:
 - '[[concepts/第二大脑]]'
 - '[[concepts/上下文工程]]'
 - '[[concepts/Agent记忆架构]]'
 - '[[concepts/Claude协作工作流]]'
 - '[[concepts/OpenClaw与Agent编排]]'
+- '[[concepts/MCP工具链]]'
+- '[[concepts/代码知识图谱]]'
+- '[[2026-06-20-cc-connect工作原理]]'
+- '[[2026-05-04-AI-Workflow在项目中的应用]]'
 confidence: processed
 ---
 # Claude Code 实战指南

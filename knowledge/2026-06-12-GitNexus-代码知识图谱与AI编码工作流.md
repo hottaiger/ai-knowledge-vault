@@ -1,13 +1,33 @@
 ---
-title: GitNexus - 代码知识图谱与 AI 编码工作流
-tags: [AI编程, GitNexus, 知识图谱, MCP, Claude-Code, Cursor, 代码搜索, 影响分析, Worktree]
-created: 2026-06-12
 source:
-  - 微信公众号汇总（2026-05-11）
-  - .claude/skills/gitnexus（6 个 SKILL.md）
-  - Cursor 对话记录（2026-06-05）
+- 微信公众号汇总（2026-05-11）
+- .claude/skills/gitnexus（6 个 SKILL.md）
+- Cursor 对话记录（2026-06-05）
+tags:
+- AI/Coding
+- GitNexus
+- 知识图谱
+- MCP
+- Claude-Code
+- Cursor
+- 代码搜索
+- 影响分析
+- Worktree
+concepts:
+- '[[concepts/Obsidian知识管理]]'
+- '[[concepts/Claude协作工作流]]'
+- '[[concepts/MCP工具链]]'
+- '[[concepts/代码知识图谱]]'
+related:
+- '[[concepts/Obsidian知识管理]]'
+- '[[concepts/Claude协作工作流]]'
+- '[[concepts/MCP工具链]]'
+- '[[concepts/代码知识图谱]]'
+- '[[2026-03-10-Claude-Code实战指南]]'
+- '[[2026-06-05-Effect-of-gitignore-on-gitnexus-skills]]'
+title: GitNexus - 代码知识图谱与 AI 编码工作流
+created: 2026-06-12
 ---
-
 # GitNexus - 代码知识图谱与 AI 编码工作流
 
 ## 一、是什么
@@ -206,4 +226,4 @@ rm .gitnexus   # 不要用 rm -rf .gitnexus/（会删真实目录）
 
 ## 标签
 
-#AI编程 #GitNexus #知识图谱 #MCP #Claude-Code #Cursor #代码搜索 #影响分析 #Worktree
+#AI/Coding #GitNexus #知识图谱 #MCP #Claude-Code #Cursor #代码搜索 #影响分析 #Worktree

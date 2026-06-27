@@ -1,10 +1,15 @@
 ---
-title: Article-to-HTML — 文章转小红书信息图 Skill
-tags: AI工具, 内容创作, 小红书, 信息图, OpenClaw
-created: 2026-04-21
 source: https://github.com/Ceeon/openclaw-article-to-image
+tags: AI工具, 内容创作, 小红书, 信息图, OpenClaw
+concepts:
+- '[[concepts/Claude Code Skills]]'
+related:
+- '[[concepts/Claude Code Skills]]'
+- '[[2026-04-21-Vibe-Security-AI代码安全审计技能]]'
+- '[[2026-04-23-Claude-多智能体协作5种模式]]'
+title: Article-to-HTML — 文章转小红书信息图 Skill
+created: 2026-04-21
 ---
-
 # Article-to-HTML — 文章转小红书信息图 Skill
 
 > OpenClaw Skill：将文章/推文转化为手机可读的 HTML 信息图，自动匹配视觉风格，截图即用。

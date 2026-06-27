@@ -1,20 +1,27 @@
 ---
-title: OpenSpec 归档——change 内的 delta spec 与项目级主 spec 的区别
 date: 2026-05-26
+source: Comet 使用问答整理
+tags:
+- OpenSpec
+- Comet
+- 工作流/OpenSpec
+- SpecDrive
+concepts:
+- '[[concepts/Claude协作工作流]]'
+- '[[concepts/OpenSpec规范驱动]]'
+related:
+- '[[concepts/Claude协作工作流]]'
+- '[[concepts/OpenSpec规范驱动]]'
+- '[[2026-06-17-SpecDrive用法与原理]]'
+- '[[2026-06-03-Comet-使用问答与实现原理]]'
+title: OpenSpec 归档——change 内的 delta spec 与项目级主 spec 的区别
 created: 2026-05-26
 updated: 2026-06-27
-tags:
-  - OpenSpec
-  - Comet
-  - 工作流/OpenSpec
-  - SpecDrive
 aliases:
-  - OpenSpec archive spec 区别
-  - openspec/changes/archive 与 openspec/specs
-source: Comet 使用问答整理
+- OpenSpec archive spec 区别
+- openspec/changes/archive 与 openspec/specs
 status: processed
 ---
-
 # OpenSpec 归档——change 内的 delta spec 与项目级主 spec 的区别
 
 > [!quote] 一句话理解

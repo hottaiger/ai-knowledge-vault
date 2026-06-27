@@ -1,7 +1,7 @@
 # Superpowers - Cursor AI 开发框架
 
 > 📅 计划：2026-04-02 阅读 / 观看
-> 🏷️ 标签：#AI编程 #Cursor #开发工作流 #Superpowers
+> 🏷️ 标签：#AI/Coding #Cursor #开发工作流 #Superpowers
 
 ## 简介
 

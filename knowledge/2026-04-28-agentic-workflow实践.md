@@ -1,13 +1,18 @@
 ---
 date: 2026-04-28
-title: agentic workflow 实践
 tags:
-  - AI/Coding
-  - 工作流/AI协作
-  - 个人笔记/碎片
+- AI/Coding
+- 工作流/AI协作
+- 个人笔记/碎片
+concepts:
+- '[[concepts/Claude协作工作流]]'
+related:
+- '[[concepts/Claude协作工作流]]'
+- '[[2026-05-04-AI-Workflow在项目中的应用]]'
+- '[[2026-04-26-多agent方案-Cline-Kanban]]'
+title: agentic workflow 实践
 status: processed
 ---
-
 参考了karpathy Claude指南中的## Goal-Driven Execution（目标驱动执行）
 https://github.com/forrestchang/andrej-karpathy-skills/blob/main/skills/karpathy-guidelines/SKILL.md
 参考openspace的AUTO-LEARN(自动学习)

@@ -1,24 +1,33 @@
 ---
-title: cc-connect 工作原理
 date: 2026-06-20
+source: 实战联调对话整理
+tags:
+- cc-connect
+- Cursor Agent CLI
+- 飞书
+- IM 集成
+- AI/Coding/工具
+- 工作流/AI协作
+concepts:
+- '[[concepts/上下文工程]]'
+- '[[concepts/Claude协作工作流]]'
+- '[[concepts/OpenClaw与Agent编排]]'
+- '[[concepts/cc-connect]]'
+related:
+- '[[concepts/上下文工程]]'
+- '[[concepts/Claude协作工作流]]'
+- '[[concepts/OpenClaw与Agent编排]]'
+- '[[concepts/cc-connect]]'
+- '[[2026-06-22-cc-connect安装配置避坑指南]]'
+- '[[2026-03-10-Claude-Code实战指南]]'
+title: cc-connect 工作原理
 created: 2026-06-20
 updated: 2026-06-27
-tags:
-  - cc-connect
-  - Cursor Agent CLI
-  - 飞书
-  - IM 集成
-  - AI/Coding/工具
-  - 工作流/AI协作
 aliases:
-  - cc-connect 原理
-  - cc-connect 三层架构
-source: 实战联调对话整理
-related:
-  - 2026-06-22-cc-connect安装配置避坑指南
+- cc-connect 原理
+- cc-connect 三层架构
 status: processed
 ---
-
 # cc-connect 工作原理
 
 > [!quote] 一句话理解

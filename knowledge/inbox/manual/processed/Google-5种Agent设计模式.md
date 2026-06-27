@@ -276,7 +276,7 @@ author: Google Cloud Tech
 ## 参考资源
 
 - [[Skills-核心概念与安装指南]]
-- [[AI编程实战指南]]
+- [[AI/Coding实战指南]]
 - Google Agent Development Kit (ADK)
 
 ---

@@ -1,23 +1,34 @@
 ---
-title: drawio-skill — 从文本生成专业架构图（含自检迭代）
 date: 2026-04-30
-created: 2026-04-30
-updated: 2026-06-27
-tags:
-  - AI/Coding/工具
-  - Skill
-  - 架构图
-  - drawio
-  - 工作流/可视化
-aliases:
-  - drawio-skill
-  - 从文本生成架构图
-  - drawio 桌面版 CLI
 source: https://github.com/Agents365-ai/drawio-skill
 source_url: https://agents365-ai.github.io/drawio-skill/
+tags:
+- AI/Coding/工具
+- Skill
+- 架构图
+- drawio
+- 工作流/可视化
+concepts:
+- '[[concepts/Claude Code Skills]]'
+- '[[concepts/Claude协作工作流]]'
+- '[[concepts/OpenClaw与Agent编排]]'
+- '[[concepts/可视化工具链]]'
+related:
+- '[[concepts/Claude Code Skills]]'
+- '[[concepts/Claude协作工作流]]'
+- '[[concepts/OpenClaw与Agent编排]]'
+- '[[concepts/可视化工具链]]'
+- '[[2026-06-17-SpecDrive用法与原理]]'
+- '[[2026-06-20-cc-connect工作原理]]'
+title: drawio-skill — 从文本生成专业架构图（含自检迭代）
+created: 2026-04-30
+updated: 2026-06-27
+aliases:
+- drawio-skill
+- 从文本生成架构图
+- drawio 桌面版 CLI
 status: processed
 ---
-
 # drawio-skill — 从文本生成专业架构图（含自检迭代）
 
 > [!quote] 一句话理解

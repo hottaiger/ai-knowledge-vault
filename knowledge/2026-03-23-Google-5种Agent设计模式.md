@@ -1,13 +1,26 @@
 ---
-title: Google 5种Agent设计模式
 date: 2026-03-23
-tags: [AI, Agent, 设计模式, MCP, Google, ADK]
 source: https://x.com/GoogleCloudTech/status/2033953579824758855
+author: Google Cloud Tech
+tags:
+- AI
+- Agent
+- 设计模式
+- MCP
+- Google
+- ADK
+concepts:
+- '[[concepts/Claude Code Skills]]'
+- '[[concepts/MCP工具链]]'
+related:
+- '[[concepts/Claude Code Skills]]'
+- '[[concepts/MCP工具链]]'
+- '[[2026-04-26-Figma-MCP缓存设计稿原理]]'
+- '[[2026-06-12-GitNexus-代码知识图谱与AI编码工作流]]'
+title: Google 5种Agent设计模式
 status: processed
 category: AI/Agent开发
-author: Google Cloud Tech
 ---
-
 # Google 5种Agent设计模式
 
 > 来源：Google Cloud Tech Twitter/X
