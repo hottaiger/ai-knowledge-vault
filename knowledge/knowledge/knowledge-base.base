@@ -1,0 +1,23 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.folder == "/"
+        - file.name != "CLAUDE"
+        - file.name != "AGENTS"
+    order:
+      - file.name
+      - date
+      - tags
+      - concepts
+      - related
+      - source_docker
+      - source
+    sort:
+      - property: date
+        direction: DESC
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      file.name: 379

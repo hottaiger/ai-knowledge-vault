@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"root0001","type":"text","text":"## Obsidian AI Agent Skills\n9 个必备 Skill 全景","x":0,"y":0,"width":280,"height":100,"color":"6"},
+		{"id":"kepano01","type":"text","text":"### kepano 官方\n（5 个）","x":360,"y":-540,"width":220,"height":80,"color":"1"},
+		{"id":"axton002","type":"text","text":"### Axton 画图\n（3 个）","x":360,"y":-240,"width":220,"height":80,"color":"2"},
+		{"id":"deeply03","type":"text","text":"### 深度学习\n（2 个）","x":360,"y":40,"width":220,"height":80,"color":"4"},
+		{"id":"plugin004","type":"text","text":"### Obsidian 插件\n（2 个）","x":360,"y":290,"width":220,"height":80,"color":"5"},
+		{"id":"skldef001","type":"text","text":"defuddle\n✅ 核心必备","x":660,"y":-700,"width":220,"height":60,"color":"1"},
+		{"id":"sklcli002","type":"text","text":"obsidian-cli\n✅ 核心必备","x":660,"y":-640,"width":220,"height":60,"color":"1"},
+		{"id":"sklbas003","type":"text","text":"obsidian-bases\n✅ 独一无二","x":660,"y":-580,"width":220,"height":60,"color":"1"},
+		{"id":"sklmd0004","type":"text","text":"obsidian-markdown\n⚠️ 建议扩展","x":660,"y":-520,"width":220,"height":60,"color":"1"},
+		{"id":"sklcnv005","type":"text","text":"json-canvas\n❌ 已淘汰（Axton 替代）","x":660,"y":-460,"width":220,"height":60,"color":"3"},
+		{"id":"sklexc006","type":"text","text":"excalidraw-diagram\n✅ 手绘图表","x":660,"y":-320,"width":220,"height":60,"color":"2"},
+		{"id":"sklmrm007","type":"text","text":"mermaid-visualizer\n✅ 结构图","x":660,"y":-260,"width":220,"height":60,"color":"2"},
+		{"id":"sklcnc008","type":"text","text":"obsidian-canvas-creator\n✅ 直接替代 kepano canvas","x":660,"y":-200,"width":220,"height":60,"color":"2"},
+		{"id":"skltut009","type":"text","text":"tutor\n✅✅ 重点推荐\n（PDF / GitHub → Vault）","x":660,"y":-40,"width":240,"height":80,"color":"4"},
+		{"id":"sklsch010","type":"text","text":"scholar\n⚠️ 慎用\n（依赖 OpenClaw，token 杀手）","x":660,"y":60,"width":240,"height":80,"color":"3"},
+		{"id":"sklcln011","type":"text","text":"Claudian\n❓ 状态未知\n（装在 Obsidian 客户端）","x":660,"y":250,"width":240,"height":80,"color":"5"},
+		{"id":"sklagt012","type":"text","text":"obsidian-agent-client\n❓ 状态未知\n（多 agent 客户端）","x":660,"y":340,"width":240,"height":80,"color":"5"}
+	],
+	"edges":[
+		{"id":"e-rk01","fromNode":"root0001","toNode":"kepano01","fromSide":"right","toSide":"left"},
+		{"id":"e-ra02","fromNode":"root0001","toNode":"axton002","fromSide":"right","toSide":"left"},
+		{"id":"e-rd03","fromNode":"root0001","toNode":"deeply03","fromSide":"right","toSide":"left"},
+		{"id":"e-rp04","fromNode":"root0001","toNode":"plugin004","fromSide":"right","toSide":"left"},
+		{"id":"e-kd01","fromNode":"kepano01","toNode":"skldef001","fromSide":"right","toSide":"left"},
+		{"id":"e-kd02","fromNode":"kepano01","toNode":"sklcli002","fromSide":"right","toSide":"left"},
+		{"id":"e-kd03","fromNode":"kepano01","toNode":"sklbas003","fromSide":"right","toSide":"left"},
+		{"id":"e-kd04","fromNode":"kepano01","toNode":"sklmd0004","fromSide":"right","toSide":"left"},
+		{"id":"e-kd05","fromNode":"kepano01","toNode":"sklcnv005","fromSide":"right","toSide":"left"},
+		{"id":"e-ad01","fromNode":"axton002","toNode":"sklexc006","fromSide":"right","toSide":"left"},
+		{"id":"e-ad02","fromNode":"axton002","toNode":"sklmrm007","fromSide":"right","toSide":"left"},
+		{"id":"e-ad03","fromNode":"axton002","toNode":"sklcnc008","fromSide":"right","toSide":"left"},
+		{"id":"e-dd01","fromNode":"deeply03","toNode":"skltut009","fromSide":"right","toSide":"left"},
+		{"id":"e-dd02","fromNode":"deeply03","toNode":"sklsch010","fromSide":"right","toSide":"left"},
+		{"id":"e-pd01","fromNode":"plugin004","toNode":"sklcln011","fromSide":"right","toSide":"left"},
+		{"id":"e-pd02","fromNode":"plugin004","toNode":"sklagt012","fromSide":"right","toSide":"left"}
+	]
+}
